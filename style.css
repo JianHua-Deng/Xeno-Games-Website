@@ -196,3 +196,9 @@ button#bottom{
     padding: 20px;
     
 }
+
+.card:hover, button:hover{
+    transition-duration: 0.4s;
+    transform: scale(1.2);
+}
+
